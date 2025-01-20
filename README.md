@@ -5,7 +5,7 @@ Este proyecto es una aplicación backend para un foro de discusión, diseñada p
 <ul> Gestión de usuarios: Registro, actualización, listado y eliminación de usuarios. </ul>
 <ul>Publicación de temas: Creación, edición, listado y eliminación de tópicos de discusión. </ul>
 <ul> Respuestas en tópicos: Permite a los usuarios responder a temas específicos, con la opción de marcar una respuesta como solución. </ul>
-<ul>Estado de los temas: Soporte para estados de tema como "Abierto", "Resuelto" y "Cerrado".</ul>
+<ul>Estado de los temas: Soporte para estados de tema como "NO_SOLVE", "SOLVE" y "CLOSE".</ul>
 <ul>Integración con base de datos MySQL: Almacenamiento persistente y estructurado de datos de usuarios, temas y respuestas.</ul>
 <ul>Validación de datos: Validaciones en los controladores para garantizar la integridad de los datos enviados por los usuarios.</ul>
 
