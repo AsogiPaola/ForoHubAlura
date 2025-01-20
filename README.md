@@ -28,7 +28,7 @@ Para ejecutar este proyecto, necesitas:
 <ul>Insomnia (opcional, para pruebas de la API). </ul>
 
 <h1>End Points Principales</h1>
-![image](https://github.com/user-attachments/assets/d409c09c-a847-43bf-9f1d-d909d83fa98c)
+(https://github.com/user-attachments/assets/d409c09c-a847-43bf-9f1d-d909d83fa98c)
 
 
 
