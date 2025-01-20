@@ -27,9 +27,6 @@ Para ejecutar este proyecto, necesitas:
 <ul>MySQL Workbench o un servidor de MySQL configurado. </ul>
 <ul>Insomnia (opcional, para pruebas de la API). </ul>
 
-<h1>End Points Principales</h1>
-(https://github.com/user-attachments/assets/d409c09c-a847-43bf-9f1d-d909d83fa98c)
-
 
 
 
