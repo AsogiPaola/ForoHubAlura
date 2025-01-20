@@ -8,3 +8,28 @@ Este proyecto es una aplicación backend para un foro de discusión, diseñada p
 <ul>Estado de los temas: Soporte para estados de tema como "Abierto", "Resuelto" y "Cerrado".</ul>
 <ul>Integración con base de datos MySQL: Almacenamiento persistente y estructurado de datos de usuarios, temas y respuestas.</ul>
 <ul>Validación de datos: Validaciones en los controladores para garantizar la integridad de los datos enviados por los usuarios.</ul>
+
+
+<h2> Tecnologías utilizadas </h2>
+
+<ul>Java con Spring Boot: Framework utilizado para desarrollar la lógica del backend. </ul>
+<ul>MySQL: Base de datos relacional utilizada para almacenar los datos. </ul>
+<ul> Insomnia: Herramienta de prueba de APIs para simular y verificar las operaciones del backend.</ul>
+<ul>Hibernate/JPA: Para la persistencia y manejo de entidades. </ul>
+<ul> RESTful API: Estructura de endpoints para manejar las solicitudes y respuestas de los clientes. </ul>
+
+<h2> Requisitos previos </h2>
+
+Para ejecutar este proyecto, necesitas:
+
+<ul> Java 17+</ul>
+<ul>Maven para gestionar las dependencias. </ul>
+<ul>MySQL Workbench o un servidor de MySQL configurado. </ul>
+<ul>Insomnia (opcional, para pruebas de la API). </ul>
+
+<h1>End Points Principales</h1>
+![image](https://github.com/user-attachments/assets/d409c09c-a847-43bf-9f1d-d909d83fa98c)
+
+
+
+
